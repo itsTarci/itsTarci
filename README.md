@@ -17,7 +17,7 @@
 </div>
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Parar entrar em contato, me segue nas redes abaixo. Será um prazer trabalharmos juntos! 😄
  
 <div>
   <a href="https://instagram.com/itsTarci" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
